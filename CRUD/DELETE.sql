@@ -1,0 +1,2 @@
+
+DELETE FROM Pessoas WHERE ID  = 2 

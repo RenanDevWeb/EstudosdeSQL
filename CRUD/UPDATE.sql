@@ -1,0 +1,1 @@
+UPDATE Pessoas SET IDADE  =  41 WHERE ID = 3 

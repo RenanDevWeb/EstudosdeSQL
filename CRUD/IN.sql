@@ -1,0 +1,9 @@
+
+
+
+SELECT * FROM PESSOAS WHERE CIDADE_ID IN (
+
+1,3,2
+
+
+)

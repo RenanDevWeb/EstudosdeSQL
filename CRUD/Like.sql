@@ -1,0 +1,2 @@
+
+SELECT * FROM PESSOAS WHERE NOME  LIKE '%da silva'
