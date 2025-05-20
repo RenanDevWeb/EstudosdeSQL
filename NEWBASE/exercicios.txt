@@ -1,0 +1,104 @@
+01. Selecione todos os empregados.
+
+02. Selecione todas as ocupações da tabela EMPREGADOS, sem repetições.
+
+03. Selecione os empregados ordenando pelo valor de seus salários – em ordem crescente.
+
+04. Selecione os empregados ordenando pelo DEPARTAMENTO_ID (em ordem crescente) e pela OCUPACAO (em ordem decrescente).
+
+05. Selecione todas as ocupações da tabela EMPREGADOS, sem repetições – em ordem decrescente.
+
+06. Selecione todos os Gerentes.
+
+07. Selecione os empregados que foram contratados antes de 2020;
+
+08. Selecione o NOME, OCUPACAO, DATA_CONTRATACAO de todos os Gerentes.
+
+09. Selecione o NOME e SALARIO de todos os empregados que trabalham para o Gerente de ID = 3.
+
+10. Selecione todos os empregados cuja COMISSAO é maior que o SALARIO.
+
+11. Selecione os empregados – em ordem crescente de admissão – que foram admitidos na empresa depois da segunda metade de 2020.
+
+12. Selecione os empregados que ganham mais de R$ 100 por dia.
+
+13. Selecione os empregados que são Analistas ou Auxiliares – em ordem crescente de OCUPACAO.
+
+14. Selecione os empregados que foram admitidos nos dias 11/01/2019, 21/11/2020 e 13/03/2019 – ordene por ordem crescente da DATA_CONTRATACAO.
+
+15. Selecione os empregados que foram admitidos no ano de 2019.
+
+16. Selecione os empregados que foram admitidos em Fevereiro de 2019.
+
+17. Selecione os empregados cujo salário anual esteja entre R$ 25.000 e R$ 30.000.
+
+18. Selecione os empregados que possuem um nome que começa com 'A'.
+
+19. Selecione os empregados que possuem um salário de 3 dígitos.
+
+20. Selecione os empregados que possuem os caracteres 'lh' juntos.
+
+21. Selecione os empregados que não pertencem ao DEPARTAMENTO 2.
+
+22. Selecione todos os empregados, com exceção do Presidente e dos Gerentes – em ordem crescente dos seus salários.
+
+23. Selecione todos os empregados que entraram na empresa em qualquer mês EXCETO no mês de Março.
+
+24. Selecione todos os Auxiliares do Departamento ID 2. 25. Selecione todos os dados da Márcia Mieiro.
+
+26. Selecione a Cidade onde a Márcia Mieiro está locada.
+
+27. Selecione todos os dados dos empregados juntamente com o NOME e CIDADE do seu DEPARTAMENTO, filtrando pelos departamentos de Contabilidade e Pesquisa – em ordem crescente da CIDADE.
+
+28. Selecione ID (EMPREGADO), NOME (EMPREGADO), OCUPACAO, SALARIO, NOME (DEPARTAMENTO), CIDADE de todos os Gerentes e Analistas, que moram no Rio de Janeiro ou Belo Horizonte – ordenar pela CIDADE.
+
+29. Selecione ID (EMPREGADO), NOME (EMPREGADO), SALARIO, NOME (DEPARTAMENTO), CIDADE, OCUPACAO dos empregados que moram em Belo Horizonte ou trabalham na Contabilidade tendo um SALARIO anual maior que R$ 24.000.
+
+30. Selecione todos os empregados que possuem um SALARIO maior que o da Miranda Soveral Vilela.
+
+31. Selecione os empregados que possuem a mesma ocupação da Marie Manso Cerveira.
+
+32. Selecione os empregados que foram contratados antes do Danilo Gadelha.
+
+33. Selecione os empregados que foram contratados antes dos seus gerentes.
+
+34. Selecione os empregados que possuem o mesmo SALARIO do Abraão Brásio Bilhalva ou da Miranda Soveral Vilela, ordene por ordem do maior salario para o menor.
+35. Selecione os empregados que possuem a mesma OCUPACAO do Luan Leal Bogado ou o SALARIO é maior do que o da Nayla Canto Coronel.
+
+36. Selecione os empregados que possuem um SALARIO maior do que a remuneração total (SALARIO + COMISSAO) do Valentina Barroca Trindade.
+
+37. Selecione os empregados que foram admitidos na empresa antes do Arian Viana e trabalham no Rio de Janeiro e Belo Horizonte.
+
+38. Selecione os empregados que possuem as mesmas Ocupações que o Alexander Beiriz Belmonte e a Valentina Barroca Trindade.
+
+39. Selecione o empregado com o maior SALARIO.
+
+40. Selecione o vendedor com a maior remuneração (SALARIO + COMISSAO).
+
+41. Selecione o último empregado contratado da empresa.
+
+42. Selecione o último Vendedor contratado na empresa.
+
+43. Selecione o último empregado contratado de Belo Horizonte.
+
+44. Selecione o último empregado contratado no ano de 2019.
+
+45. Selecione os empregados que possuem a mesma OCUPACAO do último empregado contratado no ano de 2019.
+
+46. Exiba a soma dos salários dos Gerentes.
+
+47. Exiba a soma dos salários pagos em 2019.
+
+48. Exiba o SALARIO médio dos Auxiliares.
+
+49. Selecione os empregados que possuem um SALARIO maior que o salário médio dos Auxiliares.
+
+50. Selecione os empregados que não trabalham no DEPARTAMENTO de Vendas.
+
+51. Selecione os empregados que não possuem gerentes.
+
+52. Selecione os empregados que são geridos pela Nayla Canto Coronel.
+
+53. Selecione os empregados que tem o SALARIO maior que R$ 2.500 após um aumento de 20%.
+
+54. Exiba o número de empregados de cada OCUPACAO;
